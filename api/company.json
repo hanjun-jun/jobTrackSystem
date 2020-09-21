@@ -1,0 +1,68 @@
+{
+    "code": 0,
+    "msg": "",
+    "count": 6,
+    "data": [
+      {
+        "id": 1,
+        "comname": "北京柯蓝科技有限公司",
+        "city": "太原",
+        "comclass": "计算机金融",
+        "person": "王五",
+        "tel": "13345668520",
+        "state": "合作中",
+        "Job": "Java开发"
+      },
+      {
+        "id": 2,
+        "comname": "北京柯蓝科技有限公司",
+        "city": "太原",
+        "comclass": "计算机金融",
+        "person": "王五",
+        "tel": "13345668520",
+        "state": "合作中",
+        "Job": "Java开发"
+      },
+      {
+        "id": 3,
+        "comname": "北京柯蓝科技有限公司",
+        "city": "太原",
+        "comclass": "计算机金融",
+        "person": "王五",
+        "tel": "13345668520",
+        "state": "合作中",
+        "Job": "Java开发"
+      },
+      {
+        "id": 4,
+        "comname": "北京柯蓝科技有限公司",
+        "city": "太原",
+        "comclass": "计算机金融",
+        "person": "王五",
+        "tel": "13345668520",
+        "state": "合作中",
+        "Job": "Java开发"
+      },
+      {
+        "id": 5,
+        "comname": "北京柯蓝科技有限公司",
+        "city": "太原",
+        "comclass": "计算机金融",
+        "person": "王五",
+        "tel": "13345668520",
+        "state": "合作中",
+        "Job": "Java开发"
+      },
+      {
+        "id": 6,
+        "comname": "北京柯蓝科技有限公司",
+        "city": "太原",
+        "comclass": "计算机金融",
+        "person": "王五",
+        "tel": "13345668520",
+        "state": "合作中",
+        "Job": "Java开发"
+      }
+
+    ]
+}
