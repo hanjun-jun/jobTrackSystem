@@ -120,21 +120,18 @@
         </div>
     </div>
 
-    <script src="../../js/layui/layui.js"></script>
+
+    <script src="../../lib/layui-v2.5.5/layui.js" charset="utf-8"></script>
+    <script src="../../js/lay-config.js" charset="utf-8"></script>
     <!-- 注意：如果你直接复制所有代码到本地，上述js路径需要改成你本地的 -->
     <script>
-        layui.config({
-            base: '../../js/mods/'
-            , version: '1.0'
-        });
-
         layui.use(['form', 'layedit', 'laydate', 'layarea'], function () {
             var form = layui.form
                 , layer = layui.layer
                 , layedit = layui.layedit
                 , laydate = layui.laydate
                 , layarea = layui.layarea
-                $ = layui.$;
+            $ = layui.$;
 
             //地区
             layarea.render({
