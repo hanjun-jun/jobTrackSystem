@@ -1,7 +1,7 @@
 {
   "homeInfo": {
     "title": "首页",
-    "href": "page/welcome-1.html?t=1"
+    "href": "page/welcome-2.html?t=1"
   },
   "logoInfo": {
     "title": "就业跟踪",
@@ -12,7 +12,7 @@
     {
       "title": "首页",
       "icon": "fa fa-home",
-      "href": "page/welcome-1.html",
+      "href": "page/welcome-2.html",
       "target": "_self"
     },
     {
