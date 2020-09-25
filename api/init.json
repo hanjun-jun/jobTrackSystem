@@ -28,73 +28,92 @@
           "target": "_self"
         }
       ]
+    },
+    {
+      "title": "班级管理",
+      "icon": "fa fa-tasks",
+      "href": "",
+      "target": "_self",
+      "child": [
+        {
+          "title": "添加班级",
+          "href": "page/class/addClass.html",
+          "icon": "fa fa-circle-o",
+          "target": "_self"
         },
-    {
-          "title": "班级管理",
-          "icon": "fa fa-tasks",
-          "href": "",
-          "target": "_self",
-          "child": [
-            {
-              "title": "添加班级",
-              "href": "page/class/addClass.html",
-              "icon": "fa fa-circle-o",
-              "target": "_self"
-            },
-            {
-              "title": "班级信息维护",
-              "href": "page/class/findClass.html",
+        {
+          "title": "班级信息维护",
+          "href": "page/class/findClass.html",
           "icon": "fa fa-circle-o",
           "target": "_self"
         }
       ]
     },
     {
-          "title": "学生管理",
-          "icon": "fa fa-graduation-cap",
-          "href": "",
-          "target": "_self",
-          "child": [
-            {
-              "title": "添加学生",
-              "href": "page/student/addStu.html",
-              "icon": "fa fa-circle-o",
-              "target": "_self"
-            },
-            {
-              "title": "学生信息维护",
-              "href": "page/student/findStu.html",
+      "title": "学生管理",
+      "icon": "fa fa-graduation-cap",
+      "href": "",
+      "target": "_self",
+      "child": [
+        {
+          "title": "添加学生",
+          "href": "page/student/addStu.html",
+          "icon": "fa fa-circle-o",
+          "target": "_self"
+        },
+        {
+          "title": "学生信息维护",
+          "href": "page/student/findStu.html",
           "icon": "fa fa-circle-o",
           "target": "_self"
         }
       ]
     },
     {
-          "title": "合作企业管理",
-          "icon": "fa fa-handshake-o",
-          "href": "",
-          "target": "_self",
-          "child": [
-            {
-              "title": "合作企业添加",
-              "href": "page/company/addCom.html",
-              "icon": "fa fa-circle-o",
-              "target": "_self"
-            },
-            {
-              "title": "合作企业维护",
-              "href": "page/company/findCom.html",
-              "icon": "fa fa-circle-o",
-              "target": "_self"
-            },
-            {
-              "title": "专场招聘会维护",
-              "href": "page/company/Job_fair.html",
-              "icon": "fa fa-circle-o",
-              "target": "_self"
+      "title": "合作企业管理",
+      "icon": "fa fa-handshake-o",
+      "href": "",
+      "target": "_self",
+      "child": [
+        {
+          "title": "合作企业添加",
+          "href": "page/company/addCom.html",
+          "icon": "fa fa-circle-o",
+          "target": "_self"
+        },
+        {
+          "title": "合作企业维护",
+          "href": "page/company/findCom.html",
+          "icon": "fa fa-circle-o",
+          "target": "_self"
+        },
+        {
+          "title": "专场招聘会维护",
+          "href": "page/company/Job_fair.html",
+          "icon": "fa fa-circle-o",
+          "target": "_self"
+        }
+      ]
+    },
+    {
+      "title": "个人信息管理",
+      "icon": "fa fa-user-circle-o",
+      "href": "",
+      "target": "_self",
+      "child": [
+        {
+          "title": "资料修改",
+          "href": "page/user/user-setting.html",
+          "icon": "fa fa-circle-o",
+          "target": "_self"
+        },
+        {
+          "title": "密码管理",
+          "href": "page/user/user-password.html",
+          "icon": "fa fa-circle-o",
+          "target": "_self"
         }
       ]
     }
-
   ]
 }
